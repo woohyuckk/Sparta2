@@ -13,6 +13,7 @@
 
 
 // 변수를 선언할 수 있는 3가지 방법 : var, let, const 
+
 //var
 var myVar = "hello World"; 
 var myVar = "test1";   // 같은 이름의 변수 ,.  선언이 가능하다.
