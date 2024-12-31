@@ -1,4 +1,4 @@
-//3 불리언(Boolean) true, false
+//3.1 불리언(Boolean) true, false
 
 let bool1 = true;
 let bool2 = false;
@@ -6,8 +6,6 @@ let bool2 = false;
 // console.log(typeof bool1);
 // console.log(bool2);
 // console.log(typeof bool2);
-
-//3.1 undefined 값이 할당되지 않은
 
 
 //3.2  undefined : 아무것도 할당하지 않음 
