@@ -86,6 +86,7 @@
 // (4) find filter와 유사하지만 조건을 만족하는 첫번째 요소를 반환함
 // let numbers = [4, 5, 4, 3, 5];
 
+
 let foundNumber = numbers.find(function (number) {
     return number > 3;
 });

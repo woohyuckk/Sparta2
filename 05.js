@@ -26,6 +26,7 @@ let = result2 = "1"+true;
 // 1-2. 숫자
 let result3 = 1 - "2";
 let result4 = "2" * "3";
+console.log("hello"*3);
 // console.log(result3);
 // console.log(typeof result3);
 // -1, number 
@@ -62,16 +63,16 @@ console.log(typeof result6); // true
 console.log(result6);
 
 let result7 = String([]); // string
-console.log(typeof result7); // flase
-console.log(result7);
+console.log(typeof result7); // false
+console.log(result7); //"" 공백
 
 let result8 = String(null); 
-console.log(typeof result8);
-console.log(result8);
+console.log(typeof result8);//string
+console.log(result8); // null
 
 let result9 = String(undefined);
-console.log(typeof result9);
-console.log(result9);
+console.log(typeof result9); //string
+console.log(result9); //nul
 
 
 //2-3. 숫자형

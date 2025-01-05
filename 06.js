@@ -35,7 +35,7 @@
 // console.log("seven" % 3); // NaN
 
 
-// 할당 연산자(assignment)
+// 할당 연산자(assignment) *= /= 
 // 2-1 등호 연산자(=) 
 // let x = 10; // x에 값을 할당 하는 연산자
 

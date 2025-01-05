@@ -18,8 +18,12 @@ let arrowfunc02 = (x,y) => x+y
 console.log(arrowfunc02(x,y));
 //함수안에 선언되는 로직이 한줄로 표현 가능할 때 return, {} 생략가능
 
+
+// 같은 함수입니다.
 function testFunc(x) {
     return x;
 }
 
-let arrowfunc03 = (x) = x;
+let arrowfunc03 = (x) => x;
+
+console.log(arrowfunc03(8));

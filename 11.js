@@ -38,7 +38,7 @@ if (x < 0) {
 let fruit = "사과";
 
 switch (fruit) {
-    case "사과":
+    case "사과" :
         console.log("사과는 빨간색입니다.");
         break; // case마다 다돌아서 꼭 넣어 주어야 한다 case문을 나간다
     case "바나나":

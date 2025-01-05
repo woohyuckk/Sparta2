@@ -17,7 +17,7 @@ let x;
 let y = null;
 // console.log(y);
 
-//3.4 object(객체)  ket-value pair
+//3.4 object(객체)  key-value pair
 
 let person = {
     name: 'choi',

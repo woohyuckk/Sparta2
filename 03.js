@@ -5,8 +5,11 @@ let str = "Hello World!";
 // console.log(str);
 // console.log(typeof str);
 
-// 2.1 문자열 길이 확인하기
+// 2.1 문자열 길이 확인하기 
 // console.log(str.length); 
+//.은 JS에서 ~의 라는 의미 정도로 해석하면된다
+// JS에서는 여러가지 미리 만들어 놓은 함수가 있는데 이를 메서드라고한다.
+// 문자열.method 하면 문자열에 쓰도록 만들어진 함수들을 사용할 수 있다.
 // 문자열 길이 확인하기 띄어쓰기 포함 12자
 
 // 2.2 문자열 결합하기 (concat = concatenation)
@@ -25,7 +28,7 @@ let str3 = "Hello, World"
 
 // 2-4. 문자열 검색 search("")안에 있는 문자열 검색
 let str4 = "Hello, World!";
-// console.log(str4.search("World")); // 7 
+console.log(str4.search("Woxld")); // 7 
 
 // 2-5. 문자열 대체
 
